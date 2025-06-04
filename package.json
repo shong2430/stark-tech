@@ -6,10 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "postbuild": "next-sitemap",
-    "format": "prettier --write ."
+    "start": "next start"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
